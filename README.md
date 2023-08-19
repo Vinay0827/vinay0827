@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c,c++**
 
-- 💬 Ask me about **Embedded Hardware**
+- 💬 Ask me about **Embedded Systems**
 
 - 📫 How to reach me **vinayijnagid@gmail.com**
 
