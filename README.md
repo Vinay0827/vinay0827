@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vinayja84092979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vinayja84092979" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinay jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay jangid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinay-jangid-8a1a55200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay jangid" height="30" width="40" /></a>
 <a href="https://instagram.com/vinay_jangid_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_jangid_08" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vinayijangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vinayijangid" height="30" width="40" /></a>
 <a href="https://discord.gg/aaka#7829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aaka#7829" height="30" width="40" /></a>
