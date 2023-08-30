@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/@vinayja84092979" target="blank"><img src="https://img.shields.io/twitter/follow/@vinayja84092979?logo=twitter&style=for-the-badge" alt="@vinayja84092979" /></a> </p>
 
-- 🔭 I’m currently working on **CANSAT NASA**
+- 🔭 I’m currently working on **STM boards**
 
-- 🌱 I’m currently learning **c,c++**
+- 🌱 I’m currently learning **Embedded C**
 
 - 💬 Ask me about **Embedded Systems**
 
