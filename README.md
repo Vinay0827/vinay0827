@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **STM boards**
 
-- 🌱 I’m currently learning **Embedded C, ROS**
+- 🌱 I’m currently learning **Embedded C, Linux Device Drivers**
 
-- 💬 Ask me about **Embedded Systems AND Robotics**
+- 💬 Ask me about **Embedded Systems, bare-metal AND Robotics**
 
 - 📫 How to reach me **vinayijnagid@gmail.com**
 
